@@ -1,5 +1,8 @@
 ### Hi there 👋
-- 🔭 I’m currently working on ReguApp. Regulations helper for Building Professionals.
+
+- 🏋🏻 I’m currently working on **ReguApp**: Regulations helper for Building Professionals.
+- 📈 Developing **Cimcime API**: A Financial Document Understanding tool for the Fintech Sector.
+- 🛝 Tinkering with ideas in **Neuroevolution**.
 
 <!--
 **niyazikemer/niyazikemer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
